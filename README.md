@@ -5,7 +5,7 @@
   
   
   
-- 💻 I'm now working on ([https://github.com/TimBroderick44/GamesCollection](https://github.com/TimBroderick44/Java-Arcade)) project. (Check it out!)
+- 💻 I'm now working on my ([https://github.com/TimBroderick44/Java-Arcade/](https://github.com/TimBroderick44/Java-Arcade)) project. (Check it out!)
 
 - 🦘I'm based in Sydney, Australia.
 
