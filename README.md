@@ -29,9 +29,20 @@
 
 For the full story, please check out my portfolio @ [https://timbroderick44.github.io/Portfolio/](https://timbroderick44.github.io/Portfolio/)
 
-<h2>✒️ Recent Projects: </h2>
+<h2 >🎮 Top Projects: 🏆</h2>
+
+<h3> Retro Cult Games: </h3>
+
+<img src="./homepage.png" width="400px" style="margin-right: 70px;"><a href="https://github.com/TimBroderick44/retro-cult-eshop"></a></img>
+<img src="./home.PNG" width="400px" height="200px"><a href="https://github.com/[TimBroderick44/retro-cult-eshop](https://github.com/TimBroderick44/google-books)"></a></img><br>
+<p style="margin-left: 70px; display: inline-block; white-space: nowrap;">*Tech Stack: React, HTML, SCSS, Firebase*</p>
+<p style="margin-left: 250px; display: inline-block; white-space: nowrap;">*Tech Stack: React, HTML, SCSS*</p>
 
 
+<img src="./Start.PNG" width="400px" height="200px" style="margin-right: 70px;"><a href="https://github.com/TimBroderick44/Java-Arcade"></a></img>
+<img src="./WIN98.PNG" width="400px"><a href="https://github.com/TimBroderick44/fakeOS"></a></img><br>
+<p style="margin-left: 150px; display: inline-block; white-space: nowrap;">*Tech Stack: Java*</p>
+<p style="margin-left: 340px; display: inline-block; white-space: nowrap;">*Tech Stack: JS, HTML, SCSS*</p>
 
 <h2 align="left">Languages and Tools:</h3>
 
