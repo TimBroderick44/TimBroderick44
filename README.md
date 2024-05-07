@@ -27,7 +27,7 @@
 + I've exceeded all my goals and have made some really cool stuff!
 ```
 
-For the full story, please check out my portfolio @ [https://timbroderick44.github.io/Portfolio/](https://timbroderick44.github.io/Portfolio/)
+For the full story, please check out my portfolio @ [https://tim-broderick.com/](https://tim-broderick.com/)
 
 <h2 >🎮 Top Projects: 🏆</h2>
 
