@@ -38,28 +38,28 @@ For the full story, please check out my portfolio @ [https://timbroderick44.gith
         <a href="https://github.com/TimBroderick44/retro-cult-eshop">
           <img src="./homepage.PNG" width="250px" height="150px" alt="Retro Cult Games" />
         </a>
-        <p align="center">Tech Stack: React, SCSS, Firebase </p>
+        <p align="center">Uses: React, SCSS, Firebase </p>
     </td>
     <td>
       <h3 align="center"> Google API Search: </h3>
       <a href="https://github.com/TimBroderick44/google-books/tree/develop">
         <img src="./home.PNG" width="280px" height="150px" alt="Google Books API Search" />
       </a>
-      <p align="center">Tech Stack: React, SCSS</p>
+      <p align="center">Uses: React, SCSS</p>
     </td>
     <td>
       <h3 align="center"> Java Arcade: </h3>
       <a href="https://github.com/TimBroderick44/Java-Arcade">
         <img src="./Start.PNG" width="250px" height="150px" height="100px" alt="Java Arcade" />
       </a>
-      <p align="center">Tech Stack: Java </p>
+      <p align="center">Uses: Java </p>
     </td>
     <td>
       <h3 align="center"> FakeOS (Win98): </h3>
       <a href="https://github.com/TimBroderick44/fakeOS">
         <img src="./WIN98.PNG" width="250px" height="150px" alt="fakeOS" />
       </a>
-      <p align="center">Tech Stack: JS, HTML, SCSS </p>
+      <p align="center">Uses: JS, HTML, SCSS </p>
     </td>
   </tr>
 </table>
