@@ -41,7 +41,7 @@ For the full story, please check out my portfolio @ [https://timbroderick44.gith
         <p align="center">Tech Stack: React, SCSS, Firebase </p>
     </td>
     <td>
-      <h3 align="center"> Google Books API Search: </h3>
+      <h3 align="center"> Google API Search: </h3>
       <a href="https://github.com/TimBroderick44/google-books/tree/develop">
         <img src="./home.PNG" width="280px" height="150px" alt="Google Books API Search" />
       </a>
@@ -55,7 +55,7 @@ For the full story, please check out my portfolio @ [https://timbroderick44.gith
       <p align="center">Tech Stack: Java </p>
     </td>
     <td>
-      <h3 align="center"> FakeOS (Win98 Clone): </h3>
+      <h3 align="center"> FakeOS (Win98): </h3>
       <a href="https://github.com/TimBroderick44/fakeOS">
         <img src="./WIN98.PNG" width="250px" height="150px" alt="fakeOS" />
       </a>
