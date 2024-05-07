@@ -3,9 +3,9 @@
 
 
 <p>With the help and guidance of <strong><a href="https://au.nology.io/">_Nology, Australia</a></strong>, I'm currently working towards breaking into the tech industry. I've been working on a few different projects lately, spending 100s of hours in Baldur's Gate III and drinking WAY too much coffee ☕! </p>
-<img align="right" height="200px" width="400px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-<p>Thanks for stopping by! Hope you can find something you enjoy!</p>  
+
+<p>Thanks for stopping by! Hope you can find something you enjoy!</p>  <img align="right" height="200px" width="400px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 - 💻 I'm now working on my <strong><a href="https://github.com/TimBroderick44/antisocial-media">Antisocial Media</a></strong> project. (Check it out!)
 - 🌱 I’m learning **Next.js, Springboot & Rust** (difficult but rewarding!)
