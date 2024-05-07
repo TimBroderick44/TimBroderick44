@@ -39,6 +39,7 @@ For the full story, please check out my portfolio @ [https://timbroderick44.gith
           <img src="./homepage.PNG" width="250px" height="150px" alt="Retro Cult Games" />
         </a>
         <p align="center">Uses: React, SCSS, Firebase </p>
+        <p align="center"><a href="https://timbroderick44.github.io/retro-cult-eshop/">Live Site</a></p>
     </td>
     <td>
       <h3 align="center"> Google API Search: </h3>
@@ -46,13 +47,15 @@ For the full story, please check out my portfolio @ [https://timbroderick44.gith
         <img src="./home.PNG" width="280px" height="150px" alt="Google Books API Search" />
       </a>
       <p align="center">Uses: React, SCSS</p>
+      <p align="center"><a href="https://timbroderick44.github.io/google-books/">Live Site</a></p>
     </td>
     <td>
       <h3 align="center"> Java Arcade: </h3>
       <a href="https://github.com/TimBroderick44/Java-Arcade">
         <img src="./Start.PNG" width="250px" height="150px" height="100px" alt="Java Arcade" />
       </a>
-      <p align="center">Uses: Java </p>
+        <p align="center"> Uses: Java </p>
+        <p align="center"><a href="https://github.com/TimBroderick44/Java-Arcade">Source Code</a></p>
     </td>
     <td>
       <h3 align="center"> FakeOS (Win98): </h3>
@@ -60,6 +63,7 @@ For the full story, please check out my portfolio @ [https://timbroderick44.gith
         <img src="./WIN98.PNG" width="250px" height="150px" alt="fakeOS" />
       </a>
       <p align="center">Uses: JS, HTML, SCSS </p>
+      <p align="center"><a href="https://timbroderick44.github.io/fakeOS/">Live Site</a></p>
     </td>
   </tr>
 </table>
