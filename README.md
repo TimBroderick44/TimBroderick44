@@ -38,14 +38,14 @@ For the full story, please check out my portfolio @ [https://timbroderick44.gith
         <a href="https://github.com/TimBroderick44/retro-cult-eshop">
           <img src="./homepage.PNG" width="250px" height="150px" alt="Retro Cult Games" />
         </a>
-        <p align="center">Tech Stack: React, HTML, </br> SCSS, Firebase </p>
+        <p align="center">Tech Stack: React, SCSS, Firebase </p>
     </td>
     <td>
       <h3 align="center"> Google Books API Search: </h3>
       <a href="https://github.com/TimBroderick44/google-books/tree/develop">
-        <img src="./home.PNG" width="250px" height="200px" alt="Google Books API Search" />
+        <img src="./home.PNG" width="280px" height="150px" alt="Google Books API Search" />
       </a>
-      <p align="center">Tech Stack: React, HTML, SCSS</p>
+      <p align="center">Tech Stack: React, SCSS</p>
     </td>
     <td>
       <h3 align="center"> Java Arcade: </h3>
