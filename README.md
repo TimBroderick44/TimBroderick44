@@ -31,18 +31,38 @@ For the full story, please check out my portfolio @ [https://timbroderick44.gith
 
 <h2 >🎮 Top Projects: 🏆</h2>
 
-<h3> Retro Cult Games: </h3>
-
-<img src="./homepage.png" width="400px" style="margin-right: 70px;"><a href="https://github.com/TimBroderick44/retro-cult-eshop"></a></img>
-<img src="./home.PNG" width="400px" height="200px"><a href="https://github.com/[TimBroderick44/retro-cult-eshop](https://github.com/TimBroderick44/google-books)"></a></img><br>
-<p style="margin-left: 70px; display: inline-block; white-space: nowrap;">*Tech Stack: React, HTML, SCSS, Firebase*</p>
-<p style="margin-left: 250px; display: inline-block; white-space: nowrap;">*Tech Stack: React, HTML, SCSS*</p>
-
-
-<img src="./Start.PNG" width="400px" height="200px" style="margin-right: 70px;"><a href="https://github.com/TimBroderick44/Java-Arcade"></a></img>
-<img src="./WIN98.PNG" width="400px"><a href="https://github.com/TimBroderick44/fakeOS"></a></img><br>
-<p style="margin-left: 150px; display: inline-block; white-space: nowrap;">*Tech Stack: Java*</p>
-<p style="margin-left: 340px; display: inline-block; white-space: nowrap;">*Tech Stack: JS, HTML, SCSS*</p>
+<table>
+  <tr>
+    <td>
+      <h3 align="center"> Retro Cult Games: </h3>
+        <a href="https://github.com/TimBroderick44/retro-cult-eshop">
+          <img src="./homepage.PNG" width="250px" height="150px" alt="Retro Cult Games" />
+        </a>
+        <p align="center">Tech Stack: React, SCSS, Firebase </p>
+    </td>
+    <td>
+      <h3 align="center"> Google Books API Search: </h3>
+      <a href="https://github.com/TimBroderick44/google-books/tree/develop">
+        <img src="./home.PNG" width="280px" height="150px" alt="Google Books API Search" />
+      </a>
+      <p align="center">Tech Stack: React, SCSS</p>
+    </td>
+    <td>
+      <h3 align="center"> Java Arcade: </h3>
+      <a href="https://github.com/TimBroderick44/Java-Arcade">
+        <img src="./Start.PNG" width="250px" height="150px" height="100px" alt="Java Arcade" />
+      </a>
+      <p align="center">Tech Stack: Java </p>
+    </td>
+    <td>
+      <h3 align="center"> FakeOS (Win98 Clone): </h3>
+      <a href="https://github.com/TimBroderick44/fakeOS">
+        <img src="./WIN98.PNG" width="250px" height="150px" alt="fakeOS" />
+      </a>
+      <p align="center">Tech Stack: JS, HTML, SCSS </p>
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">Languages and Tools:</h3>
 
