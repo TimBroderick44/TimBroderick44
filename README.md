@@ -6,8 +6,8 @@
 <img align="right" height="150px" width="300px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <p>Thanks for stopping by! Hope you can find something you enjoy!</p>  
 
-- 💻 I'm now working on my <strong><a href="https://github.com/TimBroderick44/antisocial-media">Antisocial Media</a></strong> project. (Check it out!)
-- 🌱 I’m learning **Next.js, Springboot & Rust** (difficult but rewarding!)
+- 💻 I'm now working on my <strong><a href="https://github.com/TimBroderick44/Simple-Stock-Analysis">Apple Vs. Microsoft</a></strong> project. (Check it out!)
+- 🌱 I’m currently learning **Python, Spark & AWS Services** (difficult but rewarding!)
 - 👨‍💻 My Portfolio and CV are available at <strong><a href="https://tim-broderick.com/">tim-broderick.com</a></strong>
 - 📫 How to reach me **timbroderick44@gmail.com**
 
