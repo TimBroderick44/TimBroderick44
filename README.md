@@ -1,13 +1,13 @@
 <h2>Hello, World!  I'm <a href="https://tim-broderick.com/">Tim!</a> 👋 </h2>
 <h3>I'm a motivated full-stack developer who's keen to learn some new skills.</h3>
 
-<p>With the help and guidance of <strong><a href="https://au.nology.io/">_Nology, Australia</a></strong>, I'm currently working towards breaking into the tech industry. I've been working on a few different projects lately, spending 100s of hours in Baldur's Gate III and drinking WAY too much coffee ☕! </p>
+<p>With the help and guidance of <strong><a href="https://au.nology.io/">_Nology, Australia</a></strong>, I'm currently working towards breaking into the tech industry. I've been working on a few different projects lately, doing a lot of gaming and drinking WAY too much coffee ☕! </p>
 
 <img align="right" height="150px" width="300px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <p>Thanks for stopping by! Hope you can find something you enjoy!</p>  
 
-- 💻 I'm now working on my <strong><a href="https://github.com/TimBroderick44/Simple-Stock-Analysis">Apple Vs. Microsoft</a></strong> project. (Check it out!)
-- 🌱 I’m currently learning **Python, Spark & AWS Services** (difficult but rewarding!)
+- 💻 I'm now working on my <strong><a href="https://github.com/TimBroderick44/Drawn-Together-Frontend">Drawn Together</a></strong> project. (Check it out!)
+- 🌱 I’m currently learning **WebSocket & AWS Services** (difficult but rewarding!)
 - 👨‍💻 My Portfolio and CV are available at <strong><a href="https://tim-broderick.com/">tim-broderick.com</a></strong>
 - 📫 How to reach me **timbroderick44@gmail.com**
 
