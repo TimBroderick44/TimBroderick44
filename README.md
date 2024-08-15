@@ -78,11 +78,11 @@ For the full story, please check out my portfolio @ [https://tim-broderick.com/]
 
   <h3> General Programming: </h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,java,py)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,java,py, rust)](https://skillicons.dev)
 
   <h3> Web Development : </h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,express,htmx,nestjs,nodejs,react,sass,solidjs,tailwind,threejs,ts,vue,spring)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,express,htmx,nestjs,nodejs,react,sass,solidjs,tailwind,threejs,ts,vue,spring, wasm)](https://skillicons.dev)
 
   <h3> Other Skills : </h3>
 
